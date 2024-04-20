@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PhanQuyetThang/mern-estate.git"
+    "url": "git+https://github.com/leducloc2020/employee.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PhanQuyetThang/mern-estate/issues"
+    "url": "https://github.com/leducloc2020/employee/issues"
   },
   "homepage": "https://leducloc2020.github.io/employee/",
   "dependencies": {
