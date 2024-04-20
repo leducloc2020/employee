@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/PhanQuyetThang/mern-estate/issues"
   },
-  "homepage": "https://github.com/PhanQuyetThang/mern-estate#readme",
+  "homepage": "https://leducloc2020.github.io/employee",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@syncfusion/ej2-react-calendars": "^23.1.41",
